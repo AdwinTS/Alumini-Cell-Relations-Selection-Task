@@ -38,7 +38,8 @@ A simple **Alumni List Mobile App** built with **Flutter** for the **Alumni Rela
 **Clone the repo:**
 
 ```bash
-git clone https://github.com/AdwinTS/alumni-directory-app.git
+https://github.com/AdwinTS/Alumini-Cell-Relations-Selection-Task.git
+
 
 
 
