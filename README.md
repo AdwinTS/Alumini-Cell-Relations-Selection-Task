@@ -24,9 +24,12 @@ A simple **Alumni List Mobile App** built with **Flutter** for the **Alumni Rela
 
 **Home Page** | **Alumni Profile**  
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/73b83d7b-6a7b-4980-8898-db077eed63ee" /> 
+
+
  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/42e59a84-0929-4221-bd79-1d3b008366f6" />
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/73b83d7b-6a7b-4980-8898-db077eed63ee" /> 
+
 
 ---
 
@@ -35,6 +38,7 @@ A simple **Alumni List Mobile App** built with **Flutter** for the **Alumni Rela
 **Clone the repo:**
 
 ```bash
-git clone https://github.com/yourusername/alumni-directory-app.git
+git clone https://github.com/AdwinTS/alumni-directory-app.git
+
 
 
