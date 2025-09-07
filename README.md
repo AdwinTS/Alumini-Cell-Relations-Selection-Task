@@ -24,7 +24,7 @@ A simple **Alumni List Mobile App** built with **Flutter** for the **Alumni Rela
 
 **Home Page** | **Alumni Profile**  
 
-*(Replace the images in `assets/screenshots/` with your actual screenshots)*  
+ 
 
 ![Home Page](assets/screenshots/home.png)  
 ![Profile Page](assets/screenshots/profile.png)  
@@ -37,3 +37,4 @@ A simple **Alumni List Mobile App** built with **Flutter** for the **Alumni Rela
 
 ```bash
 git clone https://github.com/yourusername/alumni-directory-app.git
+
